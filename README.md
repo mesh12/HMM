@@ -1,5 +1,4 @@
-Authors : Shobhana G
-          Shreya Puranik
+Authors : Shobhana G, Shreya Puranik
           
 Systems tested on : Linux , Mac OSX
 
